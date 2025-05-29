@@ -1,4 +1,4 @@
-# Ordenación- Alforitmos básicos
+# Ordenación- Algoritmos básicos
 Repositorio para profundizaren python estudiando cómo ordenar una lista
 Autor: Yo mismo
 Fecha: Hoy
